@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CeritaGuwe</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Kamu Galau? Mau Cerita Tidak Punya Teman? Tenang aja, Yuk Ceritain Ceritamu di Cerita Guwe aja!</string>
+    <string name="title_welcome_page">Selamat datang di CeritaGuwe!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Login dulu ya!</string>
+    <string name="title_login_page">Sudah siap untuk bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="story_name">Nama Cerita</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="setting">Pengaturan</string>
+    <string name="image_warning">Peringatan</string>
+    <string name="err_msg_required">%1$s wajib diisi</string>
+    <string name="success">%1$s Berhasil</string>
+    <string name="your_account_has_been_created">Akun kamu telah dibuat</string>
+    <string name="please_login_to_your_account">Silakan login ke akun kamu</string>
+    <string name="permission_request_granted">Izin Diberikan</string>
+    <string name="permission_request_denied">Izin Ditolak</string>
+    <string name="image_is_required_to_make_a_story">Gambar Diperlukan</string>
+    <string name="no_media_selected">Tidak Ada Media yang Dipilih</string>
+    <string name="err_msg_email">Email Tidak Valid</string>
+</resources>

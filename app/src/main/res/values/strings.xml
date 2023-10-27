@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CeritaGuwe</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Feeling down? Want to share but have no one to talk to? Dont worry, share your stories on Cerita Guwe!</string>
+    <string name="title_welcome_page">Welcome to CeritaGuwe!</string>
+    <string name="title_signup_page">Please complete your details below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please log in!</string>
+    <string name="title_login_page">Ready to tell your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy Learning on Dicoding.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="story_name">Name</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="setting">Settings</string>
+    <string name="image_warning">Warning</string>
+    <string name="err_msg_required">%1$s is required</string>
+    <string name="success"> Successful</string>
+    <string name="your_account_has_been_created">Your account has been created</string>
+    <string name="please_login_to_your_account">Please log in to your account</string>
+    <string name="permission_request_granted">Permission Granted</string>
+    <string name="permission_request_denied">Permission Denied</string>
+    <string name="image_is_required_to_make_a_story">Image Required</string>
+    <string name="no_media_selected">No Media Selected</string>
+    <string name="err_msg_email">Invalid Email</string>
+</resources>
